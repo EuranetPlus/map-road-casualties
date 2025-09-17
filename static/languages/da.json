@@ -1,13 +1,13 @@
 {
-  "heading": "Er EU27-veje sikre?",
-  "subheading": "Antallet af trafikdræbte i EU27 er forblevet det samme: 46 dødsfald pr. million indbyggere blev registreret i 2023 og 2022.",
-  "legend1": "Ingen tilgængelige data",
-  "tooltip1": "Vejdøde pr. million indbyggere",
+  "heading": "Er vejene i EU27 sikre?",
+  "subheading": "Antallet af trafikdødsfald i EU27 er forblevet det samme: 46 dødsfald pr. million indbyggere blev registreret i 2023 og 2022.",
+  "legend1": "Ingen data tilgængelige",
+  "tooltip1": "Trafikdødsfald per million indbyggere",
   "textSourceDescription": "Kilde",
-  "textSource": "MIG HVEM",
+  "textSource": "JEG HVEM",
   "textNoteDescription": "Note",
   "textNote": "Tallene for 2023 er baseret på foreløbige data for de fleste lande og kan ændres, når de endelige data offentliggøres i efteråret 2024.",
   "textDataAccess": "Få adgang til dataene",
   "linkDataAccess": "https://ec.europa.eu/commission/presscorner/detail/en/IP_24_1361",
-  "textCountryClick": "Klik for mere info"
+  "textCountryClick": "Klik for mere information"
 }

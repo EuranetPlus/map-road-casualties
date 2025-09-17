@@ -1,13 +1,13 @@
 {
-  "heading": "Ar ES27 keliai saugūs?",
-  "subheading": "Žuvusiųjų keliuose skaičius ES-27 išliko toks pat: 2023 ir 2022 metais milijonui gyventojų teko 46 žūtys.",
+  "heading": "Ar ES 27 keliai yra saugūs?",
+  "subheading": "Kelių eismo įvykių aukų skaičius ES 27 šalyse išliko toks pats: 2023 ir 2022 m. užregistruotos 46 mirtys milijonui gyventojų.",
   "legend1": "Nėra duomenų",
-  "tooltip1": "Mirčių keliuose skaičius milijonui gyventojų",
+  "tooltip1": "Kelių eismo mirčių skaičius milijonui gyventojų",
   "textSourceDescription": "Šaltinis",
-  "textSource": "AŠ KAS",
+  "textSource": "AŠ, KAS",
   "textNoteDescription": "Pastaba",
-  "textNote": "2023 m. duomenys pagrįsti preliminariais daugumos šalių duomenimis ir gali keistis, kai galutiniai duomenys bus paskelbti 2024 m. rudenį.",
-  "textDataAccess": "Pasiekite duomenis",
+  "textNote": "2023 m. skaičiai pagrįsti preliminariais daugumos šalių duomenimis ir gali keistis, kai 2024 m. rudenį bus paskelbti galutiniai duomenys.",
+  "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://ec.europa.eu/commission/presscorner/detail/en/IP_24_1361",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

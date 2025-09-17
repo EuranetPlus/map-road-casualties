@@ -4,10 +4,10 @@
   "legend1": "No hay datos disponibles",
   "tooltip1": "Muertes en carretera por millón de habitantes",
   "textSourceDescription": "Fuente",
-  "textSource": "YO QUE",
+  "textSource": "Yo que",
   "textNoteDescription": "Nota",
-  "textNote": "Las cifras de 2023 se basan en datos preliminares de la mayoría de los países y están sujetas a cambios cuando se publiquen los datos definitivos en otoño de 2024.",
+  "textNote": "Las cifras de 2023 se basan en datos preliminares de la mayoría de los países y están sujetas a cambios cuando se publiquen los datos finales en otoño de 2024.",
   "textDataAccess": "Acceder a los datos",
-  "linkDataAccess": "https://ec.europa.eu/commission/presscorner/detail/en/IP_24_1361",
+  "linkDataAccess": "https://ec.europa.eu/commission/presscorner/detail/es/IP_24_1361",
   "textCountryClick": "Haga clic para más información"
 }

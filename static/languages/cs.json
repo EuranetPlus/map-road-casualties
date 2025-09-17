@@ -1,12 +1,12 @@
 {
-  "heading": "Jsou silnice EU27 bezpečné?",
-  "subheading": "Počet úmrtí na silnicích v EU27 zůstal stejný: v letech 2023 a 2022 bylo zaznamenáno 46 úmrtí na milion obyvatel.",
-  "legend1": "Nejsou k dispozici žádné údaje",
-  "tooltip1": "Počet úmrtí na silnicích na milion obyvatel",
+  "heading": "Jsou silnice v EU-27 bezpečné?",
+  "subheading": "Počet úmrtí na silnicích v EU-27 zůstal stejný: v letech 2023 a 2022 bylo zaznamenáno 46 úmrtí na milion obyvatel.",
+  "legend1": "Nejsou k dispozici žádná data",
+  "tooltip1": "Úmrtí na silnicích na milion obyvatel",
   "textSourceDescription": "Zdroj",
-  "textSource": "JÁ KDO",
+  "textSource": "Já, kdo",
   "textNoteDescription": "Poznámka",
-  "textNote": "Údaje za rok 2023 vycházejí z předběžných údajů pro většinu zemí a mohou se změnit, až budou na podzim 2024 zveřejněny konečné údaje.",
+  "textNote": "Údaje za rok 2023 vycházejí z předběžných údajů pro většinu zemí a mohou se změnit, až budou na podzim roku 2024 zveřejněna konečná data.",
   "textDataAccess": "Přístup k datům",
   "linkDataAccess": "https://ec.europa.eu/commission/presscorner/detail/en/IP_24_1361",
   "textCountryClick": "Klikněte pro více informací"

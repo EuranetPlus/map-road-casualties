@@ -4,10 +4,10 @@
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "Verkeersdoden per miljoen inwoners",
   "textSourceDescription": "Bron",
-  "textSource": "IK WIE",
+  "textSource": "Ik WIE",
   "textNoteDescription": "Opmerking",
   "textNote": "De cijfers voor 2023 zijn gebaseerd op voorlopige gegevens voor de meeste landen en kunnen nog worden gewijzigd wanneer de definitieve gegevens in het najaar van 2024 worden vrijgegeven.",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://ec.europa.eu/commission/presscorner/detail/en/IP_24_1361",
-  "textCountryClick": "Klik voor meer info"
+  "textCountryClick": "Klik voor meer informatie"
 }

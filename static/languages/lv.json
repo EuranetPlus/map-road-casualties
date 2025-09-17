@@ -1,13 +1,13 @@
 {
-  "heading": "Vai ES27 ceļi ir droši?",
-  "subheading": "Ceļos bojāgājušo skaits ES-27 ir palicis nemainīgs: 2023. un 2022. gadā tika reģistrēti 46 nāves gadījumi uz miljonu iedzīvotāju.",
-  "legend1": "Nav pieejami dati",
-  "tooltip1": "Bojā gājušo skaits uz miljonu iedzīvotāju",
+  "heading": "Vai ES 27 valstu ceļi ir droši?",
+  "subheading": "Ceļu satiksmes negadījumos bojāgājušo skaits ES 27 valstīs ir palicis nemainīgs: 2023. un 2022. gadā tika reģistrēti 46 nāves gadījumi uz miljonu iedzīvotāju.",
+  "legend1": "Dati nav pieejami",
+  "tooltip1": "Ceļu satiksmes negadījumu upuri uz miljonu iedzīvotāju",
   "textSourceDescription": "Avots",
-  "textSource": "ES KURŠ",
+  "textSource": "ES, KAS",
   "textNoteDescription": "Piezīme",
-  "textNote": "2023. gada skaitļi ir balstīti uz provizoriskiem datiem par lielāko daļu valstu, un tie var tikt mainīti, kad 2024. gada rudenī tiks publiskoti galīgie dati.",
+  "textNote": "2023. gada skaitļi ir balstīti uz provizoriskiem datiem par lielāko daļu valstu un var mainīties, kad 2024. gada rudenī tiks publicēti galīgie dati.",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://ec.europa.eu/commission/presscorner/detail/en/IP_24_1361",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"
+  "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Sunt drumurile UE27 sigure?",
-  "subheading": "Numărul deceselor rutiere în UE27 a rămas același: 46 de decese la un milion de locuitori au fost înregistrate în 2023 și 2022.",
-  "legend1": "Nu există date disponibile",
-  "tooltip1": "Decese rutiere la milion de locuitori",
+  "heading": "Sunt drumurile din UE-27 sigure?",
+  "subheading": "Numărul deceselor rutiere în UE-27 a rămas același: în 2023 și 2022 s-au înregistrat 46 de decese la un milion de locuitori.",
+  "legend1": "Nu sunt disponibile date",
+  "tooltip1": "Decese rutiere la un milion de locuitori",
   "textSourceDescription": "Sursă",
   "textSource": "EU CARE",
   "textNoteDescription": "Nota",
-  "textNote": "Cifrele pentru 2023 se bazează pe date preliminare pentru majoritatea țărilor și pot suferi modificări atunci când datele finale sunt publicate în toamna anului 2024.",
+  "textNote": "Cifrele din 2023 se bazează pe date preliminare pentru majoritatea țărilor și pot fi modificate la publicarea datelor finale în toamna anului 2024.",
   "textDataAccess": "Accesați datele",
-  "linkDataAccess": "https://ec.europa.eu/commission/presscorner/detail/en/IP_24_1361",
-  "textCountryClick": "Click pentru mai multe informații"
+  "linkDataAccess": "https://ec.europa.eu/commission/presscorner/detail/ro/IP_24_1361",
+  "textCountryClick": "Faceți clic pentru mai multe informații"
 }

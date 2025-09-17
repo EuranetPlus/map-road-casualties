@@ -1,12 +1,12 @@
 {
   "heading": "As estradas da UE27 são seguras?",
   "subheading": "O número de mortes nas estradas na UE27 permaneceu o mesmo: 46 mortes por milhão de habitantes foram registradas em 2023 e 2022.",
-  "legend1": "Não há dados disponíveis",
+  "legend1": "Nenhum dado disponível",
   "tooltip1": "Mortes nas estradas por milhão de habitantes",
   "textSourceDescription": "Fonte",
-  "textSource": "EU QUEM",
+  "textSource": "Eu QUEM",
   "textNoteDescription": "Observação",
-  "textNote": "Os números de 2023 são baseados em dados preliminares para a maioria dos países e estão sujeitos a alterações quando os dados finais forem divulgados no outono de 2024.",
+  "textNote": "Os números de 2023 são baseados em dados preliminares da maioria dos países e estão sujeitos a alterações quando os dados finais forem divulgados no outono de 2024.",
   "textDataAccess": "Acesse os dados",
   "linkDataAccess": "https://ec.europa.eu/commission/presscorner/detail/en/IP_24_1361",
   "textCountryClick": "Clique para mais informações"

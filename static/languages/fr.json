@@ -4,10 +4,10 @@
   "legend1": "Aucune donnée disponible",
   "tooltip1": "Décès sur les routes par million d'habitants",
   "textSourceDescription": "Source",
-  "textSource": "MOI QUI",
+  "textSource": "Moi qui",
   "textNoteDescription": "Note",
-  "textNote": "Les chiffres de 2023 sont basés sur des données préliminaires pour la plupart des pays et sont susceptibles d’être modifiés lorsque les données définitives seront publiées à l’automne 2024.",
+  "textNote": "Les chiffres de 2023 sont basés sur des données préliminaires pour la plupart des pays et sont susceptibles d’être modifiés lorsque les données finales seront publiées à l’automne 2024.",
   "textDataAccess": "Accéder aux données",
-  "linkDataAccess": "https://ec.europa.eu/commission/presscorner/detail/en/IP_24_1361",
+  "linkDataAccess": "https://ec.europa.eu/commission/presscorner/detail/fr/IP_24_1361",
   "textCountryClick": "Cliquez pour plus d'informations"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Är EU27-vägar säkra?",
-  "subheading": "Antalet trafikdöda i EU27 har förblivit detsamma: 46 dödsfall per miljon invånare registrerades 2023 och 2022.",
+  "heading": "Är vägarna i EU27 säkra?",
+  "subheading": "Antalet dödsfall i trafiken i EU27 har varit oförändrat: 46 dödsfall per miljon invånare registrerades under 2023 och 2022.",
   "legend1": "Inga data tillgängliga",
-  "tooltip1": "Vägdöda per miljon invånare",
+  "tooltip1": "Dödsfall i trafiken per miljon invånare",
   "textSourceDescription": "Källa",
   "textSource": "JAG VEM",
   "textNoteDescription": "Notera",
-  "textNote": "Siffrorna för 2023 är baserade på preliminära uppgifter för de flesta länder och kan komma att ändras när de slutliga uppgifterna släpps hösten 2024.",
-  "textDataAccess": "Få åtkomst till data",
+  "textNote": "Siffrorna för 2023 baseras på preliminära uppgifter för de flesta länder och kan komma att ändras när de slutliga uppgifterna släpps hösten 2024.",
+  "textDataAccess": "Åtkomst till data",
   "linkDataAccess": "https://ec.europa.eu/commission/presscorner/detail/en/IP_24_1361",
-  "textCountryClick": "Klicka för mer info"
+  "textCountryClick": "Klicka för mer information"
 }

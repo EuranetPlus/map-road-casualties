@@ -1,13 +1,13 @@
 {
-  "heading": "An bhfuil bóithre AE27 sábháilte?",
-  "subheading": "D’fhan líon na mbásanna ar bhóithre san AE27 mar a chéile: taifeadadh 46 bás in aghaidh gach milliún áitritheoir in 2023 agus in 2022.",
+  "heading": "An bhfuil bóithre EU27 sábháilte?",
+  "subheading": "Tá líon na mbásanna ar na bóithre san AE27 mar a chéile: taifeadadh 46 bás in aghaidh gach milliún áitritheoir in 2023 agus 2022.",
   "legend1": "Níl aon sonraí ar fáil",
-  "tooltip1": "Básanna ar bhóithre in aghaidh gach milliún áitritheoir",
+  "tooltip1": "Básanna bóthair in aghaidh an mhilliúin áitritheoir",
   "textSourceDescription": "Foinse",
-  "textSource": "ME WHO",
+  "textSource": "MÉ CÉ",
   "textNoteDescription": "Nóta",
-  "textNote": "Tá figiúirí 2023 bunaithe ar réamhshonraí don chuid is mó de na tíortha agus tá siad faoi réir athruithe nuair a scaoiltear na sonraí deiridh i bhfómhar 2024.",
-  "textDataAccess": "Faigh rochtain ar na sonraí",
-  "linkDataAccess": "https://ec.europa.eu/commission/presscorner/detail/ga/IP_24_1361",
+  "textNote": "Tá figiúirí 2023 bunaithe ar shonraí réamhthrialacha don chuid is mó de na tíortha agus tá siad faoi réir athruithe nuair a scaoilfear na sonraí deiridh i bhfómhar na bliana 2024.",
+  "textDataAccess": "Rochtain ar na sonraí",
+  "linkDataAccess": "https://ec.europa.eu/commission/presscorner/detail/en/IP_24_1361",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
 }
