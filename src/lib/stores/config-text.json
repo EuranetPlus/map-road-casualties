@@ -1,13 +1,13 @@
 {
   "heading": "Are EU27 roads safe?",
-  "subheading": "The number of road deaths in the EU27 has stayed the same: 46 deaths per million inhabitants were recorded in 2023 and 2022.",
+  "subheading": "The road fatality rate in the EU27 fell to 44 deaths per million inhabitants in 2024, down from 46 in both 2023 and 2022.",
   "legend1": "No data available",
   "tooltip1": "Road deaths per million inhabitants",
   "textSourceDescription": "Source",
-  "textSource": "EU CARE",
+  "textSource": "Eurostat (2026)",
   "textNoteDescription": "Note",
-  "textNote": "The 2023 figures are based on preliminary data for most countries and are subject to changes when the final data are released in autumn 2024.",
+  "textNote": "",
   "textDataAccess": "Access the data",
-  "linkDataAccess": "https://ec.europa.eu/commission/presscorner/detail/en/IP_24_1361",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tran_sf_roadus__custom_20976386/bookmark/table?lang=en&bookmarkId=de9f78bf-30dc-4509-82b9-fd422b0cd052&c=1776156010000",
   "textCountryClick": "Click for more info"
 }
