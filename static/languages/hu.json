@@ -1,13 +1,13 @@
 {
   "heading": "Biztonságosak az EU27 útjai?",
-  "subheading": "Az EU27 tagállamában a közúti halálesetek száma változatlan maradt: 2023-ban és 2022-ben is 46 halálesetet regisztráltak millió lakosra vetítve.",
+  "subheading": "Az EU27 tagállamában a közúti halálozási arány 2024-re 44 halálesetre csökkent millió lakosra vetítve, szemben a 2023-as és a 2022-es 46-tal.",
   "legend1": "Nincsenek elérhető adatok",
   "tooltip1": "Közúti halálesetek millió lakosra vetítve",
   "textSourceDescription": "Forrás",
-  "textSource": "ÉN, KI",
+  "textSource": "Eurostat (2026)",
   "textNoteDescription": "Jegyzet",
-  "textNote": "A 2023-as adatok a legtöbb ország esetében előzetes adatokon alapulnak, és változhatnak, amikor a végleges adatokat 2024 őszén közzéteszik.",
+  "textNote": "",
   "textDataAccess": "Hozzáférés az adatokhoz",
-  "linkDataAccess": "https://ec.europa.eu/commission/presscorner/detail/en/IP_24_1361",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tran_sf_roadus__custom_20976386/bookmark/table?lang=en&bookmarkId=de9f78bf-30dc-4509-82b9-fd422b0cd052&c=1776156010000",
   "textCountryClick": "Kattintson a további információkért"
 }

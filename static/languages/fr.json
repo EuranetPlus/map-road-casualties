@@ -1,13 +1,13 @@
 {
-  "heading": "Les routes de l’UE27 sont-elles sûres ?",
-  "subheading": "Le nombre de décès sur les routes dans l'UE27 est resté le même : 46 décès par million d'habitants ont été enregistrés en 2023 et 2022.",
+  "heading": "Les routes de l'UE27 sont-elles sûres ?",
+  "subheading": "Le taux de mortalité routière dans l'UE27 est tombé à 44 décès par million d'habitants en 2024, contre 46 en 2023 et 2022.",
   "legend1": "Aucune donnée disponible",
-  "tooltip1": "Décès sur les routes par million d'habitants",
+  "tooltip1": "Mortalité routière par million d'habitants",
   "textSourceDescription": "Source",
-  "textSource": "Moi qui",
+  "textSource": "Eurostat (2026)",
   "textNoteDescription": "Note",
-  "textNote": "Les chiffres de 2023 sont basés sur des données préliminaires pour la plupart des pays et sont susceptibles d’être modifiés lorsque les données finales seront publiées à l’automne 2024.",
+  "textNote": "",
   "textDataAccess": "Accéder aux données",
-  "linkDataAccess": "https://ec.europa.eu/commission/presscorner/detail/fr/IP_24_1361",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tran_sf_roadus__custom_20976386/bookmark/table?lang=en&bookmarkId=de9f78bf-30dc-4509-82b9-fd422b0cd052&c=1776156010000",
   "textCountryClick": "Cliquez pour plus d'informations"
 }

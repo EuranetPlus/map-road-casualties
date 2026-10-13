@@ -1,13 +1,13 @@
 {
   "heading": "Kas EL 27 teed on ohutud?",
-  "subheading": "Liiklussurmade arv EL 27-s on jäänud samaks: 2023. ja 2022. aastal registreeriti 46 surmajuhtumit miljoni elaniku kohta.",
+  "subheading": "Liiklussurmade määr EL 27-s langes 2024. aastal 44 surmajuhtumini miljoni elaniku kohta, võrreldes 46-ga nii 2023. kui ka 2022. aastal.",
   "legend1": "Andmed pole saadaval",
   "tooltip1": "Liiklussurmad miljoni elaniku kohta",
   "textSourceDescription": "Allikas",
-  "textSource": "MINA, KES",
+  "textSource": "Eurostat (2026)",
   "textNoteDescription": "Märkus",
-  "textNote": "2023. aasta arvud põhinevad enamiku riikide esialgsetel andmetel ja võivad muutuda, kui lõplikud andmed 2024. aasta sügisel avaldatakse.",
+  "textNote": "",
   "textDataAccess": "Juurdepääs andmetele",
-  "linkDataAccess": "https://ec.europa.eu/commission/presscorner/detail/en/IP_24_1361",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tran_sf_roadus__custom_20976386/bookmark/table?lang=en&bookmarkId=de9f78bf-30dc-4509-82b9-fd422b0cd052&c=1776156010000",
   "textCountryClick": "Lisateabe saamiseks klõpsake"
 }

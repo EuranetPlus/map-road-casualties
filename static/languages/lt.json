@@ -1,13 +1,13 @@
 {
   "heading": "Ar ES 27 keliai yra saugūs?",
-  "subheading": "Kelių eismo įvykių aukų skaičius ES 27 šalyse išliko toks pats: 2023 ir 2022 m. užregistruotos 46 mirtys milijonui gyventojų.",
+  "subheading": "Kelių eismo įvykių mirtingumas ES 27 valstybėse narėse 2024 m. sumažėjo iki 44 mirčių milijonui gyventojų, palyginti su 46 tiek 2023, tiek 2022 m.",
   "legend1": "Nėra duomenų",
   "tooltip1": "Kelių eismo mirčių skaičius milijonui gyventojų",
   "textSourceDescription": "Šaltinis",
-  "textSource": "AŠ, KAS",
+  "textSource": "Eurostatas (2026 m.)",
   "textNoteDescription": "Pastaba",
-  "textNote": "2023 m. skaičiai pagrįsti preliminariais daugumos šalių duomenimis ir gali keistis, kai 2024 m. rudenį bus paskelbti galutiniai duomenys.",
+  "textNote": "",
   "textDataAccess": "Prieiga prie duomenų",
-  "linkDataAccess": "https://ec.europa.eu/commission/presscorner/detail/en/IP_24_1361",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tran_sf_roadus__custom_20976386/bookmark/table?lang=en&bookmarkId=de9f78bf-30dc-4509-82b9-fd422b0cd052&c=1776156010000",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

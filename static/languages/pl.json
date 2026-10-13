@@ -1,13 +1,13 @@
 {
   "heading": "Czy drogi w UE27 są bezpieczne?",
-  "subheading": "Liczba ofiar śmiertelnych wypadków drogowych w UE27 pozostała taka sama: w latach 2023 i 2022 odnotowano 46 zgonów na milion mieszkańców.",
+  "subheading": "Wskaźnik śmiertelności na drogach w UE-27 spadł do 44 zgonów na milion mieszkańców w 2024 r., w porównaniu z 46 w latach 2023 i 2022.",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "Liczba ofiar śmiertelnych na drogach na milion mieszkańców",
   "textSourceDescription": "Źródło",
-  "textSource": "JA, KTO",
+  "textSource": "Eurostat (2026)",
   "textNoteDescription": "Notatka",
-  "textNote": "Dane z 2023 r. opierają się na wstępnych danych dla większości krajów i mogą ulec zmianie, gdy ostateczne dane zostaną opublikowane jesienią 2024 r.",
+  "textNote": "",
   "textDataAccess": "Dostęp do danych",
-  "linkDataAccess": "https://ec.europa.eu/commission/presscorner/detail/pl/IP_24_1361",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tran_sf_roadus__custom_20976386/bookmark/table?lang=en&bookmarkId=de9f78bf-30dc-4509-82b9-fd422b0cd052&c=1776156010000",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

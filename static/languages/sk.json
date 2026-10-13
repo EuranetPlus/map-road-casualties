@@ -1,13 +1,13 @@
 {
   "heading": "Sú cesty v EÚ-27 bezpečné?",
-  "subheading": "Počet úmrtí na cestách v EÚ27 zostal rovnaký: v rokoch 2023 a 2022 bolo zaznamenaných 46 úmrtí na milión obyvateľov.",
+  "subheading": "Miera úmrtnosti na cestách v EÚ27 klesla v roku 2024 na 44 úmrtí na milión obyvateľov, oproti 46 úmrtiam v rokoch 2023 aj 2022.",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltip1": "Úmrtia na cestách na milión obyvateľov",
   "textSourceDescription": "Zdroj",
-  "textSource": "Ja, KTO",
+  "textSource": "Eurostat (2026)",
   "textNoteDescription": "Poznámka",
-  "textNote": "Údaje za rok 2023 sú založené na predbežných údajoch pre väčšinu krajín a môžu sa zmeniť po zverejnení konečných údajov na jeseň 2024.",
+  "textNote": "",
   "textDataAccess": "Prístup k údajom",
-  "linkDataAccess": "https://ec.europa.eu/commission/presscorner/detail/en/IP_24_1361",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tran_sf_roadus__custom_20976386/bookmark/table?lang=en&bookmarkId=de9f78bf-30dc-4509-82b9-fd422b0cd052&c=1776156010000",
   "textCountryClick": "Kliknite pre viac informácií"
 }

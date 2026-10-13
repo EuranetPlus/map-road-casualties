@@ -1,13 +1,13 @@
 {
   "heading": "Vai ES 27 valstu ceļi ir droši?",
-  "subheading": "Ceļu satiksmes negadījumos bojāgājušo skaits ES 27 valstīs ir palicis nemainīgs: 2023. un 2022. gadā tika reģistrēti 46 nāves gadījumi uz miljonu iedzīvotāju.",
+  "subheading": "Ceļu satiksmes negadījumu mirstības rādītājs ES 27 valstīs 2024. gadā samazinājās līdz 44 nāves gadījumiem uz miljonu iedzīvotāju, salīdzinot ar 46 gan 2023., gan 2022. gadā.",
   "legend1": "Dati nav pieejami",
   "tooltip1": "Ceļu satiksmes negadījumu upuri uz miljonu iedzīvotāju",
   "textSourceDescription": "Avots",
-  "textSource": "ES, KAS",
+  "textSource": "Eurostat (2026)",
   "textNoteDescription": "Piezīme",
-  "textNote": "2023. gada skaitļi ir balstīti uz provizoriskiem datiem par lielāko daļu valstu un var mainīties, kad 2024. gada rudenī tiks publicēti galīgie dati.",
+  "textNote": "",
   "textDataAccess": "Piekļūstiet datiem",
-  "linkDataAccess": "https://ec.europa.eu/commission/presscorner/detail/en/IP_24_1361",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tran_sf_roadus__custom_20976386/bookmark/table?lang=en&bookmarkId=de9f78bf-30dc-4509-82b9-fd422b0cd052&c=1776156010000",
   "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Sind die Straßen der EU27 sicher?",
-  "subheading": "Die Zahl der Verkehrstoten in der EU27 ist unverändert geblieben: In den Jahren 2023 und 2022 wurden 46 Todesfälle pro Million Einwohner registriert.",
+  "heading": "Sind die Straßen in der EU27 sicher?",
+  "subheading": "Die Zahl der Verkehrstoten in der EU27 sank im Jahr 2024 auf 44 Todesfälle pro Million Einwohner, gegenüber 46 in den Jahren 2023 und 2022.",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "Verkehrstote pro Million Einwohner",
   "textSourceDescription": "Quelle",
-  "textSource": "ICH, DER",
+  "textSource": "Eurostat (2026)",
   "textNoteDescription": "Notiz",
-  "textNote": "Die Zahlen für 2023 basieren für die meisten Länder auf vorläufigen Daten und können sich mit der Veröffentlichung der endgültigen Daten im Herbst 2024 noch ändern.",
-  "textDataAccess": "Zugriff auf die Daten",
-  "linkDataAccess": "https://ec.europa.eu/commission/presscorner/detail/en/IP_24_1361",
-  "textCountryClick": "Klicken Sie hier für weitere Informationen"
+  "textNote": "",
+  "textDataAccess": "Greifen Sie auf die Daten zu.",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tran_sf_roadus__custom_20976386/bookmark/table?lang=en&bookmarkId=de9f78bf-30dc-4509-82b9-fd422b0cd052&c=1776156010000",
+  "textCountryClick": "Klicken Sie hier für weitere Informationen."
 }

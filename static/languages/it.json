@@ -1,13 +1,13 @@
 {
   "heading": "Le strade dell'UE27 sono sicure?",
-  "subheading": "Il numero di morti sulle strade nell'UE27 è rimasto invariato: nel 2023 e nel 2022 sono stati registrati 46 decessi per milione di abitanti.",
+  "subheading": "Nel 2024, il tasso di mortalità stradale nell'UE27 è sceso a 44 decessi per milione di abitanti, rispetto ai 46 registrati sia nel 2023 che nel 2022.",
   "legend1": "Nessun dato disponibile",
-  "tooltip1": "Morti sulla strada per milione di abitanti",
+  "tooltip1": "Morti stradali per milione di abitanti",
   "textSourceDescription": "Fonte",
-  "textSource": "IO CHE",
+  "textSource": "Eurostat (2026)",
   "textNoteDescription": "Nota",
-  "textNote": "I dati del 2023 si basano su dati preliminari per la maggior parte dei Paesi e sono soggetti a modifiche quando i dati definitivi saranno pubblicati nell'autunno del 2024.",
-  "textDataAccess": "Accedi ai dati",
-  "linkDataAccess": "https://ec.europa.eu/commission/presscorner/detail/en/IP_24_1361",
+  "textNote": "",
+  "textDataAccess": "Accedere ai dati",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tran_sf_roadus__custom_20976386/bookmark/table?lang=en&bookmarkId=de9f78bf-30dc-4509-82b9-fd422b0cd052&c=1776156010000",
   "textCountryClick": "Clicca per maggiori informazioni"
 }

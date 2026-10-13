@@ -1,13 +1,13 @@
 {
   "heading": "Ovatko EU27-maiden tiet turvallisia?",
-  "subheading": "Tieliikennekuolemien määrä EU27-alueella on pysynyt samana: vuosina 2023 ja 2022 kirjattiin 46 kuolemaa miljoonaa asukasta kohden.",
+  "subheading": "EU27-maiden liikennekuolemien määrä laski 44 kuolemaan miljoonaa asukasta kohden vuonna 2024, kun se vuonna 2023 ja 2022 oli 46.",
   "legend1": "Ei tietoja saatavilla",
   "tooltip1": "Liikennekuolemat miljoonaa asukasta kohden",
   "textSourceDescription": "Lähde",
-  "textSource": "MINÄ KUKA",
+  "textSource": "Eurostat (2026)",
   "textNoteDescription": "Huomautus",
-  "textNote": "Vuoden 2023 luvut perustuvat useimpien maiden alustaviin tietoihin ja voivat muuttua, kun lopulliset tiedot julkaistaan syksyllä 2024.",
+  "textNote": "",
   "textDataAccess": "Käytä tietoja",
-  "linkDataAccess": "https://ec.europa.eu/commission/presscorner/detail/en/IP_24_1361",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tran_sf_roadus__custom_20976386/bookmark/table?lang=en&bookmarkId=de9f78bf-30dc-4509-82b9-fd422b0cd052&c=1776156010000",
   "textCountryClick": "Klikkaa saadaksesi lisätietoja"
 }

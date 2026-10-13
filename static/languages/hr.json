@@ -1,13 +1,13 @@
 {
   "heading": "Jesu li ceste EU27 sigurne?",
-  "subheading": "Broj smrtnih slučajeva u prometnim nesrećama u EU27 ostao je isti: 46 smrtnih slučajeva na milijun stanovnika zabilježeno je u 2023. i 2022. godini.",
+  "subheading": "Stopa smrtnosti u prometnim nesrećama u EU27 pala je na 44 smrtna slučaja na milijun stanovnika u 2024., u odnosu na 46 u 2023. i 2022. godini.",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "Smrtni slučajevi u prometu na milijun stanovnika",
   "textSourceDescription": "Izvor",
-  "textSource": "Ja TKO",
+  "textSource": "Eurostat (2026.)",
   "textNoteDescription": "Bilješka",
-  "textNote": "Podaci za 2023. temelje se na preliminarnim podacima za većinu zemalja i podložni su promjenama kada konačni podaci budu objavljeni u jesen 2024.",
+  "textNote": "",
   "textDataAccess": "Pristup podacima",
-  "linkDataAccess": "https://ec.europa.eu/commission/presscorner/detail/en/IP_24_1361",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tran_sf_roadus__custom_20976386/bookmark/table?lang=en&bookmarkId=de9f78bf-30dc-4509-82b9-fd422b0cd052&c=1776156010000",
   "textCountryClick": "Kliknite za više informacija"
 }
