@@ -1,13 +1,11 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Ar ES 27 keliai yra saugūs?",
+  "subtitle": "ES 27 valstybių narių eismo įvykių mirtingumas sumažėjo iki 43 mirčių milijonui gyventojų 2025 m., palyginti su 51 mirtimi 2019 m.",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
+  "textSource": "Europos Komisija (2026 m.)",
+  "linkDataAccessDescription": "Prieiga prie duomenų",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spauskite čia"
+  "customUnitLabel": "Kelių eismo mirčių skaičius milijonui gyventojų",
+  "tooltipExtraInfoLabel": "Spustelėkite čia"
 }
