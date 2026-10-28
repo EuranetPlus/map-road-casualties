@@ -1,13 +1,11 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Zijn de wegen in de EU27 veilig?",
+  "subtitle": "Het aantal verkeersdoden in de EU27 daalde in 2025 tot 43 doden per miljoen inwoners, tegenover 51 in 2019.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Europese Commissie (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
+  "customUnitLabel": "Verkeersdoden per miljoen inwoners",
   "tooltipExtraInfoLabel": "Klik hier"
 }
