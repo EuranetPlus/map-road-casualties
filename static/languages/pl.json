@@ -1,13 +1,11 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Czy drogi w UE27 są bezpieczne?",
+  "subtitle": "Wskaźnik śmiertelności na drogach w UE-27 spadł do 43 ofiar śmiertelnych na milion mieszkańców w 2025 r., w porównaniu z 51 w 2019 r.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Komisja Europejska (2026)",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
+  "customUnitLabel": "Liczba ofiar śmiertelnych na drogach na milion mieszkańców",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
